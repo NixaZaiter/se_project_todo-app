@@ -16,4 +16,4 @@ Code has been refactored to be less cluttered and consolidated to two main class
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- https://nixazaiter.github.io/se_project_todo-app/
