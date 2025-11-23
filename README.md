@@ -1,14 +1,16 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+As the name suggests, the application provides a simple Todo list generator with working validation for no empty (mandatory) fields.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+- Check buttons work to show finished todo items.
+- Every todo item has a delete button.
+- Upon making a new todo button, the fields reset back to empty, but not upon closing without submitting.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+Code has been refactored to be less cluttered and consolidated to two main classes. The Todo class and the FormValidation class. Form reset functionality has also been added per request of the assignment.
 
 ## Deployment
 
